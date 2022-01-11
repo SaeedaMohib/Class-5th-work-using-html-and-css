@@ -1,0 +1,39 @@
+/* @font-face {
+    font-family:Ubuntu ;
+    src: url('Fonts/Ubuntu-Bold.ttf');
+} */
+/* 
+*{
+    font-family: Ubuntu;
+} */
+
+
+
+
+h1{
+    color: blue;
+    font-size: 75px;
+    font-style:italic;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+
+
+p{
+    text-transform: uppercase;
+    line-height: 2.1em;
+    /* word-spacing: 1.4em; */
+    letter-spacing: 0em;
+    text-align: justify;
+    
+}
+
+#taro{
+    text-indent: 25%;
+}
+
+
+
+
+
